@@ -1,0 +1,2 @@
+# KVRX-Schedule-Downloader
+ KVRX Schedul eDownloader is a tool created to easily download the entire KVRX Radio schedule and display them at http://dannyloera.com/kvrx/shows.txt for easy viewing and manipulation. This schedule is crucial for the KVRX Radio android app which uses  all show information to display them on the interface. This program is run weekly on a ubuntu server to ensure the app's schedule is always up to date.
